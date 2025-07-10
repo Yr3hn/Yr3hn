@@ -1,5 +1,3 @@
-# yr3hn
-
 # HENRY 19 
 
 🎯 Desenvolvedor em formação, focado em construir uma base sólida em programação web.  
