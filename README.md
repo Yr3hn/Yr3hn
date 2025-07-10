@@ -1,6 +1,6 @@
 # yr3hn
 
-# H3NRY 19 
+# HENRY 19 
 
 🎯 Desenvolvedor em formação, focado em construir uma base sólida em programação web.  
 💻 Atualmente estudando HTML, CSS e JavaScript.  
