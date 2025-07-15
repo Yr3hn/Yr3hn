@@ -23,9 +23,10 @@ Em breve, vou fixar aqui os repositórios principais.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H3NRY&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3NRY&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H3NRY&show_icons=true&theme=radical&cachebust=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3NRY&layout=compact&theme=radical&cachebust=1"/>
 </div>
+
 
 ---
 
